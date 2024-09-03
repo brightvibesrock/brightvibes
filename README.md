@@ -14,7 +14,7 @@
 <a href="your counter">
 <img src="https://komarev.com/ghpvc/?username=brightvibesrock&style=flat-square&color=green" alt="Counter"/></a>
 [![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat&height=24&logo=Resume&logoColor=white)](https://docs.google.com/document/d/1iiENdlf1FUnG2G5n8qNif3E0l5WBsqHcKjmLlXfea-o/edit?usp=sharing)
-
+[![Personal Website](https://img.shields.io/badge/-Website-orange?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/)
 </div>
 
 <div align="left" vertical-align "center">
