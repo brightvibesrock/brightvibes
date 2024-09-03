@@ -14,8 +14,11 @@
 <a href="your counter">
 <img src="https://komarev.com/ghpvc/?username=brightvibesrock&style=flat-square&color=green" alt="Counter"/></a>
 [![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat&height=24&logo=Resume&logoColor=white)](https://docs.google.com/document/d/1iiENdlf1FUnG2G5n8qNif3E0l5WBsqHcKjmLlXfea-o/edit?usp=sharing)
+
 </div>
-<div>
+
+<div align="left" vertical-align "center">
+    
 <h2> Hi! I'm Jenny Dolan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" vertical-align = "bottom"/></h2>
 
 I have 15+ years as a technical leader with a successful track record in delivering platform capabilities which enable software engineering organizations to deliver performant, stable, and reliable experiences into the hands of digital customers. Recent platform initiative at CVS was awarded an excellence nomination and resulted in a 12X increase in production delivery with implicit security and reliability (i.e. production deployments went from 60 per week to 725 per week). I have a diverse background in software engineering which includes website/mobile development, data management, secure application delivery frameworks CICD, infrastructure as code and talent management.
@@ -42,9 +45,8 @@ Click on link to contact me:
   
 [![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&height=24&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail)
 
-</div>
 
-<div id="header" align="left" vertical-align "center" >
+
 <h2> Tech Stack <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB2MzRxa2Zxcjc2OHJtODNwZXE0YXYycjRjNm5qanFqZmV3d2pndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" height = "25"></h2>
 
 <p>Here are a few things I've picked up along my learning journey:</p>
