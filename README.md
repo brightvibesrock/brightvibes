@@ -9,7 +9,6 @@
 </div>
 </head>
 
-<body>
 <div id="badges" align="center" height="24">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
@@ -17,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=brightvibesrock&style=flat-square&color=green" alt="Counter"/></a>
 [![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat&height=24&logo=Resume&logoColor=white)](https://docs.google.com/document/d/1iiENdlf1FUnG2G5n8qNif3E0l5WBsqHcKjmLlXfea-o/edit?usp=sharing)
 </div>
-
+<div>
 <h2> Hi! I'm Jenny Dolan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" vertical-align = "bottom"/></h2>
 
 I have 15+ years as a technical leader with a successful track record in delivering platform capabilities which enable software engineering organizations to deliver performant, stable, and reliable experiences into the hands of digital customers. Recent platform initiative at CVS was awarded an excellence nomination and resulted in a 12X increase in production delivery with implicit security and reliability (i.e. production deployments went from 60 per week to 725 per week). I have a diverse background in software engineering which includes website/mobile development, data management, secure application delivery frameworks CICD, infrastructure as code and talent management.
@@ -39,12 +38,11 @@ I have 15+ years as a technical leader with a successful track record in deliver
 
   - *Core Operations* is focused on reliability to address Technical Support, Incident Management, Production Change Management and Site Reliability Engineering (SRE). SRE will ensure that all production applications integrate with observability services and how to leverage prebuilt dashboards, logs, metrics, and traces to continuously monitor, detect and resolve problems. By coaching teams to adopt platform thinking and practices that better address technical debt, we can create a more responsive engineering culture and happier teams!
 
-</body>
-<div>
 <h2>Get In Touch</h2>
 Click on link to contact me:
   
 [![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&height=24&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail)
+
 </div>
 
 <div id="header" align="left" vertical-align "center" >
@@ -89,8 +87,7 @@ Click on link to contact me:
   <img src="./imageassets/slack-original.svg" title="Slack Workflows" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" alt="ChatGPT" width="95" height="33"/>&nbsp;
 
-<div>
 <h2>Github Stats:<h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak" /></a>
-</div>
+
 </html>
