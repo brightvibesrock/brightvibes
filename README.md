@@ -38,7 +38,7 @@ I have 15+ years as a technical leader with a successful track record in deliver
 <h2> Tech Stack <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB2MzRxa2Zxcjc2OHJtODNwZXE0YXYycjRjNm5qanFqZmV3d2pndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" width "50" height = "25"></h2>
 
 </div>
-<p></p>Here are a few things I've picked up along my learning journey:</p>
+<p>Here are a few things I've picked up along my learning journey:</p>
 
   <img src="./imageassets/githubactions-plain.svg" title="GithubActions" alt="GHA" width="40" height="40"/>&nbsp;
   <img src="./imageassets/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/>&nbsp;
