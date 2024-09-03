@@ -7,8 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
 <a href="your counter">
 <img src="https://komarev.com/ghpvc/?username=brightvibesrock&style=flat-square&color=green" alt="Counter"/></a>
-<a href = "My Resume">
-<img src="https://img.shields.io/badge/My Resume-style=flat&logo=pdf&logoColor=white" title="Resume" alt="Resume"/>&nbsp;</a>
+<a href ="My Resume">
+[![Resume Badge](https://img.shields.io/badge/-Resume-pink?style=flat&logo=Resume&logoColor=white)](https://docs.google.com/document/d/1iiENdlf1FUnG2G5n8qNif3E0l5WBsqHcKjmLlXfea-o/pub/)
 
 </div>
 
