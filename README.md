@@ -1,7 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <div id="header" align="center" vertical-align ="bottom">
 <img src = "./imageassets/Jenny.png" width = "125"/>
 </div>
+</head>
 
+<body>
 <div id="badges" align="center" height="24">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
@@ -31,7 +39,7 @@ I have 15+ years as a technical leader with a successful track record in deliver
 
   - *Core Operations* is focused on reliability to address Technical Support, Incident Management, Production Change Management and Site Reliability Engineering (SRE). SRE will ensure that all production applications integrate with observability services and how to leverage prebuilt dashboards, logs, metrics, and traces to continuously monitor, detect and resolve problems. By coaching teams to adopt platform thinking and practices that better address technical debt, we can create a more responsive engineering culture and happier teams!
  </div>
-
+</body>
 <div >
 <h2>Get In Touch</h2>
 Click on link to contact me:
@@ -90,3 +98,4 @@ Click on link to contact me:
 <h2>Github Stats:<h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak" /></a>
 </div>
+</html>
