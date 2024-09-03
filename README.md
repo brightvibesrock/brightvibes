@@ -35,9 +35,10 @@ I have 15+ years as a technical leader with a successful track record in deliver
 
 <div>
 <h2>Get In Touch</h2>
-Clink on the link below to contact me:
+Clink on the link to contact me: <img src="https://img.shields.io/badge/gmail-purple?style=flat&logo=gmail&logoColor=white" title="Veil Gmail" alt="Veil GMail" width="80" height="25" />&nbsp;
+<p></p>
   
-[![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail)
+<!--[![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail) -->
 
 </div>
 
@@ -80,13 +81,12 @@ Clink on the link below to contact me:
    <img src="./imageassets/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="./imageassets/jira-plain-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   <img src="./imageassets/slack-original.svg" title="Slack Workflows" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" alt="ChatGPT" width="90" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" alt="ChatGPT" width="95" height="33"/>&nbsp;
 
 
 </div>
 
 <div>
----
 <h2>Github Stats:<h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak" /></a>
 </div>
