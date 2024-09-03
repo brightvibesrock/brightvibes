@@ -10,12 +10,9 @@
 <!-- [My Email 📬](mailto:brightvibesrock@gmail.com) -->
 </div>
 
-<h1> Hi! I'm Jenny Dolan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" vertical-align = "bottom"/></h1>
+<h2> Hi! I'm Jenny Dolan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" vertical-align = "bottom"/></h2>
 
-
-<h3>I have 15+ years as a technical leader with a successful track record in delivering platform capabilities which enable software engineering organizations to deliver performant, stable, and reliable experiences into the hands of digital customers. Recent platform initiative at CVS was awarded an excellence nomination and resulted in a 12X increase in production delivery with implicit security and reliability (i.e. production deployments went from 60 per week to 725 per week). I have a diverse background in software engineering which includes website/mobile development, data management, secure application delivery frameworks CICD, infrastructure as code and talent management.
-
----
+I have 15+ years as a technical leader with a successful track record in delivering platform capabilities which enable software engineering organizations to deliver performant, stable, and reliable experiences into the hands of digital customers. Recent platform initiative at CVS was awarded an excellence nomination and resulted in a 12X increase in production delivery with implicit security and reliability (i.e. production deployments went from 60 per week to 725 per week). I have a diverse background in software engineering which includes website/mobile development, data management, secure application delivery frameworks CICD, infrastructure as code and talent management.
 
 * **Improve Business Agility** - Using Agile Methodologies and my versatile development experience, I will work alongside your team to build, develop and deploy IT platform solutions that will break down organizational silos and inefficiencies that hinder business productivity and innovation.
 
@@ -32,7 +29,7 @@
     - Core DevX Features: Self Service Application Delivery Pipeline
     - Infrastructure Provisioning: Self Service Infrastructure Pipeline
 
-  - *Core Operations* is focused on reliability to address Technical Support, Incident Management, Production Change Management and Site Reliability Engineering (SRE). SRE will ensure that all production applications integrate with observability services and how to leverage prebuilt dashboards, logs, metrics, and traces to continuously monitor, detect and resolve problems. By coaching teams to adopt platform thinking and practices that better address technical debt, we can create a more responsive engineering culture and happier teams!</h3>
+  - *Core Operations* is focused on reliability to address Technical Support, Incident Management, Production Change Management and Site Reliability Engineering (SRE). SRE will ensure that all production applications integrate with observability services and how to leverage prebuilt dashboards, logs, metrics, and traces to continuously monitor, detect and resolve problems. By coaching teams to adopt platform thinking and practices that better address technical debt, we can create a more responsive engineering culture and happier teams!
  
  </div>
 ---
