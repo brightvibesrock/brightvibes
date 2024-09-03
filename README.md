@@ -35,11 +35,11 @@ I have 15+ years as a technical leader with a successful track record in deliver
 
 <div>
 <h2>Get In Touch</h2>
-Clink on the link to contact me: <img src="https://img.shields.io/badge/gmail-purple?style=flat&logo=gmail&logoColor=white" title="Veil Gmail" alt="Veil GMail" width="80" height="25" />&nbsp;
+Clink on the link below to contact me:
 <p></p>
   
-<!--[![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail) -->
-
+[![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail)
+<p></p>
 </div>
 
 <div id="header" align="left" vertical-align "center" >
