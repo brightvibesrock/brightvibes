@@ -39,13 +39,12 @@ I have 15+ years as a technical leader with a successful track record in deliver
     - Infrastructure Provisioning: Self Service Infrastructure Pipeline
 
   - *Core Operations* is focused on reliability to address Technical Support, Incident Management, Production Change Management and Site Reliability Engineering (SRE). SRE will ensure that all production applications integrate with observability services and how to leverage prebuilt dashboards, logs, metrics, and traces to continuously monitor, detect and resolve problems. By coaching teams to adopt platform thinking and practices that better address technical debt, we can create a more responsive engineering culture and happier teams!
+</div>
 
 <h2>Get In Touch</h2>
 Click on link to contact me:
   
 [![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&height=24&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail)
-
-
 
 <h2> Tech Stack <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB2MzRxa2Zxcjc2OHJtODNwZXE0YXYycjRjNm5qanFqZmV3d2pndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" height = "25"></h2>
 
@@ -87,6 +86,4 @@ Click on link to contact me:
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" alt="ChatGPT" width="95" height="33"/>&nbsp;
 
 <h2>Github Stats:<h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak" /></a>
-
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak"/></a>
