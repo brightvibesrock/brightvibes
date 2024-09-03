@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,8 +47,6 @@ Click on link to contact me:
 <div id="header" align="left" vertical-align "center" >
 <h2> Tech Stack <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB2MzRxa2Zxcjc2OHJtODNwZXE0YXYycjRjNm5qanFqZmV3d2pndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7b7PjSOZJwVCmY/giphy.gif" height = "25"></h2>
 
-</div>
-
 <p>Here are a few things I've picked up along my learning journey:</p>
 
   <img src="./imageassets/githubactions-plain.svg" title="GithubActions" alt="GHA" width="40" height="40"/>&nbsp;
@@ -90,4 +87,4 @@ Click on link to contact me:
 <h2>Github Stats:<h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak" /></a>
 
-</html>
+</div>
