@@ -85,5 +85,5 @@ Click on link to contact me:
   <img src="./imageassets/slack-original.svg" title="Slack Workflows" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" alt="ChatGPT" width="95" height="33"/>&nbsp;
 
-<h2>Github Stats:<h2>
+<h2>Github Stats.<h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak"/></a>
