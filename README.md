@@ -8,7 +8,7 @@
 </div>
 </head>
 
-<div id="badges" align="center" height="24">
+<div id="badges" align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
 <a href="your counter">
