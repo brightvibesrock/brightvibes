@@ -7,9 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
 <a href="your counter">
 <img src="https://komarev.com/ghpvc/?username=brightvibesrock&style=flat-square&color=green" alt="Counter"/></a>
-<!--[![Resume Badge](https://img.shields.io/badge/-Resume-pink?style=flat&logo=googledocs&logoColor=white)]
-(https://docs.google.com/document/d/1iiENdlf1FUnG2G5n8qNif3E0l5WBsqHcKjmLlXfea-o/edit?usp=sharing)-->
-
+[![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat&height=24&logo=Resume&logoColor=white)](./brightvibesresume.pdf)
 </div>
 
 <h2> Hi! I'm Jenny Dolan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" vertical-align = "bottom"/></h2>
