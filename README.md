@@ -1,5 +1,5 @@
 <div id="header" align="left" vertical-align ="bottom">
-<img src = "./imageassets/jenny.png" width = "175"/>
+<img src = "./imageassets/Jenny.png" width = "175"/>
 </div>
 
 <div id="badges" align="left">
