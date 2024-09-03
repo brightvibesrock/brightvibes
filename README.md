@@ -42,7 +42,7 @@ I have 15+ years as a technical leader with a successful track record in deliver
 </div>
 
 <h2>Get In Touch.</h2>
-Click on link to contact me:
+Click on the link below to contact me:
   
 [![Email Badge](https://img.shields.io/badge/-email-purple?style=flat&height=24&logo=gmail&logoColor=white)](https://veilmail.io/myobfuscatedemail)
 
