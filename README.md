@@ -20,9 +20,9 @@ I have 15+ years as a technical leader with a successful track record in deliver
 
 * **DevSecOps** - I can help you integrate supply chain security practices into your build and deploy pipeline. We can create a self-service pipeline that utilizes github actions workflow (or CICD tools of your choice) which incorporate static code analysis, software composition analysis, container scanning, cosign, mobile scan, SBOM (Software Bill of Materials) generation and DAST (Dynamic Application Security Testing). I can improve the developer experience by enabling keyless authentication and automatically synce secrets with your Secrets Management Provider to seemlessly deploy k8s reources to cloud enivronments such as: <img src="./imageassets/amazonwebservices-original-wordmark.svg" title=" Amazon Web Services" alt="AWS" width="22" height="22"/>&nbsp; <img src="./imageassets/googlecloud-plain.svg" title="GCP" alt="Google Cloud Platform" width="22" height="20"/>&nbsp;and <img src="./imageassets/azure-original.svg" title="Azure" alt="Azure" width="18" height="18"/>&nbsp;.
 
-* **Platform Business Model** - I will partner with your leadership to drive a data driven mindset and to make sure you have the necessary KPIs and visibility to your entire cloud enterprise. I will work collaboratively to fine tune a platform business model which includes Common Ways of Working, Platform Feature Delivery Teams and Core Operations to ensure longterm success and sustainability. 
+* **Platform Business Model** - I will partner with your leadership to drive a data driven mindset and to make sure you have the necessary OKRs, KPIs and visibility to your entire cloud enterprise. I will work collaboratively to fine tune your platform business model which includes Common Ways of Working, Platform Feature Delivery Teams and Core Operations to ensure longterm success and sustainability. 
 
-  - *Common Ways of Working* will address staffing, procurement, training resoures, desktop computing and standard business tools. 
+  - *Common Ways of Working* will address staffing, procurement, training resoures, product team routines, desktop computing and standard business tools. 
 
   - *Platform Delivery Teams* are comprised of platform "feature" teams that maintain end-to-end platform capabilties such as:
 
@@ -64,7 +64,7 @@ I have 15+ years as a technical leader with a successful track record in deliver
   <img src="./imageassets/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="./imageassets/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
   <img src="./imageassets/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="./imageassets/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp
+  <img src="./imageassets/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
   <img src="./imageassets/mysql-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="./imageassets/mongodb-plain.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="./imageassets/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
