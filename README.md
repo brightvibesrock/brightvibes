@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
 ![](https://komarev.com/ghpvc/?username=brightvibesrock&color=ff69b4&abbreviated=true&base=1000&label=github+Profile+Views)
 [![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat&height=24&logo=Resume&logoColor=white)](https://docs.google.com/document/d/1iiENdlf1FUnG2G5n8qNif3E0l5WBsqHcKjmLlXfea-o/edit?usp=sharing)
-[![Personal Website](https://img.shields.io/badge/-Website-orange?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/)
+[![Personal Website](https://img.shields.io/badge/-Website-green?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/)
 </div>
 
 <div align="left" vertical-align "center">
