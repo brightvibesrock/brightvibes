@@ -15,6 +15,11 @@ body {
 
 div {
   color: red;
+  margin: 1em
+}
+
+img {
+  max-width:100%;
 }
 
 
@@ -22,11 +27,11 @@ div {
 
 .innerDiv {
   display: flex;
-  justify-content: middle;
-  justify-items: center;
+  justify-content: center;
   position: absolute;
-  left: relative;
-  top: 25px;
+  left:1em;
+  top:1em;
+  bottom:1em;
 
  
 }
