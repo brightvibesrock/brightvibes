@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div id="header" align="center" vertical-align ="bottom">
-<img src = "./imageassets/Jenny.png" width = "125"/>
+<img src = "./imageassets/jennyd.png" width = "125"/>
 </div>
 </head>
 
