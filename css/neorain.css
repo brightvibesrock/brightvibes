@@ -1,0 +1,32 @@
+html {
+  background: black;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+
+/* Color of the text - you can change it as you need. */
+
+div {
+  color: red;
+}
+
+
+/* These are the properties applied to div that has the "innerDiv" class - you can change it as you need. */
+
+.innerDiv {
+  display: flex;
+  justify-content: middle;
+  justify-items: center;
+  position: absolute;
+  left: relative;
+  top: 25px;
+
+ 
+}
