@@ -15,6 +15,7 @@ body {
 
 div {
   color: red;
+  margin: 0;
 }
 
 /* These are the properties applied to div that has the "innerDiv" class - you can change it as you need. */
