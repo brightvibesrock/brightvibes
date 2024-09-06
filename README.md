@@ -37,4 +37,4 @@ This is a simple template that you can use as a base to get started with your ow
   <img src="./imageassets/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
 ## Github Stats.
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brightvibesrock&border_radius=4&mode=weekly&card_width=450&card_height=150&type=png" alt="GitHub Streak"/></a>
+[![GitHub Streak](https://my-github-readme-streak-stats-psi.vercel.app?user=)](https://git.io/streak-stats)
