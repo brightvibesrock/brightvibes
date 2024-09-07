@@ -40,7 +40,6 @@ This is a simple template that you can use as a base to get started with your ow
 
 ![](https://streak-stats.demolab.com/?user=brightvibesrock&theme=solarized-light&mode=weekly)
 
-
 <!-- [![GitHub Streak](https://github-readme-streak-stats-7q8ynz7mj-brightvibesrocks-projects.vercel.app?user=)](https://git.io/streak-stats) -->
 
 If you want to add Github Streak Stats card, go to https://github.com/denvercoder1/github-readme-streak-stats to learn how customize your card and deploy to Vercel to generate markdown code that you will copy and add to your Readme.
