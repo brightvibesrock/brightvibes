@@ -38,7 +38,7 @@ This is a simple template that you can use as a base to get started with your ow
 
 ## BrightVibesRock Github User Streak Stats.
 
-https://streak-stats.demolab.com/?user=brightvibesrock&theme=solarized-light&mode=weekly
+![](https://streak-stats.demolab.com/?user=brightvibesrock&theme=solarized-light&mode=weekly)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats-7q8ynz7mj-brightvibesrocks-projects.vercel.app?user=)](https://git.io/streak-stats) -->
