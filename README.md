@@ -47,7 +47,7 @@ If you want to add Github Streak Stats card, go to https://github.com/denvercode
 
 Here you can customize your Streak Stats card with a live preview.
 
-<https://streak-stats.demolab.com>
+![](https://streak-stats.demolab.com)
 
 ##  Acknowledgements.
 
