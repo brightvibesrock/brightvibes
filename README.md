@@ -37,4 +37,5 @@ This is a simple template that you can use as a base to get started with your ow
   <img src="./imageassets/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
 ## Github Stats.
-[![GitHub Streak](https://my-github-readme-streak-stats-psi.vercel.app?user=brightvibesrock%2F&theme=solarized-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-7q8ynz7mj-brightvibesrocks-projects.vercel.app?user=)](https://git.io/streak-stats)
+
