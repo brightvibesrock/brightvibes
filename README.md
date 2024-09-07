@@ -45,9 +45,11 @@ This is a simple template that you can use as a base to get started with your ow
 
 If you want to add Github Streak Stats card, go to https://github.com/denvercoder1/github-readme-streak-stats to learn how customize your card and deploy to Vercel to generate markdown code that you will copy and add to your Readme.
 
-Here you can customize your Streak Stats card with a live preview.
+#### Here you can customize your Streak Stats card with a live preview.
 
-![](https://streak-stats.demolab.com)
+<https://streak-stats.demolab.com>
+
+[![Demo Site](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif "Demo Site")](http://streak-stats.demolab.com/demo/)
 
 ##  Acknowledgements.
 
