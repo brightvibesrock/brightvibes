@@ -1,16 +1,5 @@
-<img src = "./imageassets/jennyd.png" width = "125"/>
-
-#  Hi! I'm Jenny Dolan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" vertical-align = "bottom"/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Jenny_Dolan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferdolan/)
-![](https://komarev.com/ghpvc/?username=brightvibesrock&color=ff69b4&abbreviated=true&base=1000&label=Profile+Views)
-[![Resume Badge](https://img.shields.io/badge/-Resume-red?style=flat&height=24&logo=Resume&logoColor=white)](https://brightvibesrock.github.io/myresume/)
-[![Personal Website](https://img.shields.io/badge/-Website-green?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/)
-</div>
-<div align="left" vertical-align "center">
-
 ## About this project.
-This is a simple template that you can use as a base to get started with your own awesome repo readme and your own website profile.
+This is a simple template that you can use as a base to get started with your own awesome repo readme and your own personal profile [![Personal Website](https://img.shields.io/badge/-Website-green?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/).
 
 ## Prerequisites.
 
