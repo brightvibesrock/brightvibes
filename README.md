@@ -1,5 +1,7 @@
 ## About this project.
-This is a simple template that you can use as a base to get started with your own awesome repo readme and your own personal profile -> [![Personal Website](https://img.shields.io/badge/-Website-green?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/).
+This is a simple template that you can use as a base to get started with your own awesome repo readme and your own personal profile.
+
+Check out demo -> [![Personal Website](https://img.shields.io/badge/-Website-green?style=flat&height=24&logo=website&logoColor=white)](https://brightvibesrock.github.io/brightvibes/)
 
 ## Prerequisites.
 
