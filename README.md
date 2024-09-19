@@ -48,5 +48,5 @@ If you want to add Github Streak Stats card, go to https://github.com/denvercode
 * https://github.com/denvercoder1/github-readme-streak-stats
 * https://github.com/devicons/devicon.git
 
-### <img src="./imageassets/kofi_p_logo_nolabel.png" width="40" height="40"/>&nbsp; [Support people with disabilities and donate a ko-fi.](https://ko-fi.com/brightvibesrock)
+### <img src="./imageassets/kofi_p_logo_nolabel.png" width="40" height="40"/>&nbsp; [Support people with disabilities that need work and donate a ko-fi.](https://ko-fi.com/brightvibesrock).
 
