@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+(async () => {
+  const email = "pocketfullofstarz@gmail.com";
+  const keyString = "secret123";
+  const enc = new TextEncoder();
+
+  const keyMaterial = await crypto.subtle.importKey(
+    "raw",
+    enc.encode(keyString),
+    { name: "PBKDF2" },
+    false,
+    ["deriveKey"]
+  );
+
+  const key = await crypto.subtle.deriveKey(
+    {
+      name: "PBKDF2",
+      salt: enc.encode("email-salt"),
+      iterations: 100000,
+      hash: "SHA-256"
+    },
+    keyMaterial,
+    { name: "AES-GCM", length: 256 },
+    false,
+    ["encrypt"]
+  );
+
+  const iv = crypto.getRandomValues(new Uint8Array(12));
+
+  const ciphertext = await crypto.subtle.encrypt(
+    { name: "AES-GCM", iv },
+    key,
+    enc.encode(email)
+  );
+
+  const encrypted = btoa(String.fromCharCode(...new Uint8Array(ciphertext)));
+  const ivString = btoa(String.fromCharCode(...iv));
+
+  console.log("Encrypted:", encrypted);
+  console.log("IV:", ivString);
+})();
+</script>
+</body>
+</html>
